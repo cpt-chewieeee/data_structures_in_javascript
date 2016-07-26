@@ -1,0 +1,14 @@
+{
+  "name": "data_fundentals_in_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LinkedListHash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^3.1.4"
+  }
+}
