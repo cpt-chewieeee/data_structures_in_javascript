@@ -1,6 +1,6 @@
 var LinkedList = function(value){
-	this.value = null;
-	this.next = null;
+	this.head = null;
+	return this;
 };
 
 module.exports = LinkedList;
